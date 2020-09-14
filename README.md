@@ -3,13 +3,16 @@
 I'm Dicky, a Software Engineer
 
 🔭 I’m currently looking for a job
+
+📫 How to reach me by email : dickyaryakesuma@gmail.com
+
+<br>
 <br>
 
 You can check my latest medium articles :
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dickyaryakesuma/0" alt="Recent Article 0"> 
 
-<br>
-📫 How to reach me by email : dickyaryakesuma@gmail.com
+
 
 <!--
 **dickyaryag6/dickyaryag6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
