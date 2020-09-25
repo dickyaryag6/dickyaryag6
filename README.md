@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Dicky, a Software Engineer
+I'm Dicky, Software Engineer at Tokopedia
 
-🔭 I’m currently looking for a job
+
 
 📫 How to reach me by email : dickyaryakesuma@gmail.com
 
