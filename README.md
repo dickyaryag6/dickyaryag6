@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Dicky, Software Engineer at Tokopedia
+I'm Dicky, a Software Engineer
 
 
 
